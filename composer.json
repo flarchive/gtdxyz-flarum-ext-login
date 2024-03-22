@@ -1,0 +1,53 @@
+{
+  "name": "gtdxyz/flarum-ext-login",
+  "description": "",
+  "type": "flarum-extension",
+  "license": "MIT",
+  "homepage": "https://dev.gtd.xyz/",
+  "keywords": [
+    "flarum",
+    "extension"
+  ],
+  "authors": [
+    {
+      "name": "GTD",
+      "email": "i@dev.gtd.xyz",
+      "homepage": "https://dev.gtd.xyz/",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "source": "https://github.com/daocatt/flarum-ext-login",
+    "issues": "https://github.com/daocatt/flarum-ext-login",
+    "docs": "https://github.com/daocatt/flarum-ext-login/wiki",
+    "forum": "https://github.com/daocatt/flarum-ext-login/discussions"
+  },
+  "require": {
+    "flarum/core": "^1.8",
+    "egulias/email-validator": "^2.1.10|^3.1|^4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Gtdxyz\\Login\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "extra": {
+    "flarum-extension": {
+      "title": "GTD Login",
+      "category": "feature",
+      "info": {
+        "website": "https://dev.gtd.xyz/",
+        "support": "https://github.com/daocatt/flarum-ext-login/discussions"
+      },
+      "icon": {
+        "name": "fas fa-at",
+        "color": "#ffffff",
+        "backgroundColor": "#232323",
+        "backgroundSize": "cover",
+        "backgroundPosition": "center"
+      }
+    }
+  }
+}
