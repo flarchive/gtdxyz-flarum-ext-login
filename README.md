@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of gtdxyz/flarum-ext-login.** Not for installation: use [Packagist](https://packagist.org/packages/gtdxyz/flarum-ext-login) or the [upstream repository](https://github.com/daocatt/flarum-ext-login).
 
-**0** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/gtdxyz-flarum-ext-login/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.8`
+**3** versions archived · Latest: [`1.0.2`](https://github.com/flarchive/gtdxyz-flarum-ext-login/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2024-03-22 | `^1.8` | [Browse](https://github.com/flarchive/gtdxyz-flarum-ext-login/tree/archive/v1.0) |
+| `1.0.1` | 2024-03-23 | `^1.8` | [Browse](https://github.com/flarchive/gtdxyz-flarum-ext-login/tree/archive/v1.0.1) |
+| `1.0.2` | 2024-04-12 | `^1.8` | [Browse](https://github.com/flarchive/gtdxyz-flarum-ext-login/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/gtdxyz-flarum-ext-login.json](https://github.com/flarchive/archive-index/blob/main/packages/gtdxyz-flarum-ext-login.json)
 
